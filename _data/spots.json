@@ -1,0 +1,709 @@
+[
+  {
+    "lang": {
+      "code": "es",
+      "name": "Salto de la Novia",
+      "description": "<p>El Salto de la Novia es uno de los rincones con mayor <strong>encanto</strong> en el término de Cirat. Nos recibe con la fascinación del agua en un encantador escenario, una hoya circular abierta por la erosión en el mismo eje del barranco, donde se vierten en <strong>cascada</strong> las aguas de un arroyo permanente.</p> <p>Desde el mirador elevado sobre la vertical del Salto, contemplamos, como a vista de pájaro, este <strong>recóndito</strong> lugar que permanece gran parte del año en sombra, umbría que el sol apenas rompe y adorna con el intenso verdor de la vegetación y el murmullo permanente del agua.</p>",
+      "hintCover": "Con unas vistas excepcionales"
+    },
+    "phone": null,
+    "address": "Alrededores de Cirat",
+    "location": {
+      "coordinates": [-0.48173, 40.035122]
+    },
+    "images": [
+      {
+        "id": "salto_novia_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Salto de la Novia"
+        }
+      },
+      {
+        "id": "salto_novia_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Salto de la Novia"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Casa Rosaire",
+      "description": "<p>Situado en la zona más <strong>tranquila</strong> del pueblo, muy cerca de las piscinas y con <strong>excelentes vistas</strong> a la montaña.</p><p>El trinar de los pájaros, el susurro del viento y el sonido del agua que baja pura por el cauce del rio <strong>Mijares</strong>, serán tus compañeros durante tu estancia en Casa Rosaire.</p><p>La <strong>casa</strong> es muy grande  de unos <strong>200m2</strong>, repartidos en tres habitaciones dobles y una de matrimonio, dos cuartos de baño y un aseo, un comedor-salón con chimenea, cocina office de 45m2 y una terraza de 60m2. Tiene calefacción en todas las estancias y está completamente equipada, asimismo dispone de una colección de películas en cd, libros, juegos de mesa, etc. En su <strong>gran terraza</strong>, podrás hacer estupendas barbacoas, disfrutando de la preciosa vista de las montañas del entorno y del valle por donde discurre el río Mijares.</p>",
+      "hintCover": "Perfecta para grupos de amigos"
+    },
+    "phone": "964300394",
+    "address": "Calle Rosaire, 12",
+    "location": {
+      "coordinates": [-0.4650907, 40.0542788]
+    },
+    "images": [
+      {
+        "id": "casa_rosaire_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Casa Rosaire"
+        }
+      }
+    ],
+    "category": "lodging",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Zona de baño",
+      "description": "<p>Situada en la parte baja del pueblo, bajo el puente que atraviesa el río, la zona de baño en el río <strong>Mijares</strong> es perfecta cuando nos queremos <strong>refrescar</strong>. Se trata de dos zonas rebalsadas donde te podrás bañar con total <strong>tranquilidad</strong>, con una corriente muy tranquila de agua. Los <strong>chopos</strong> nos proporcionan amplias zona de <strong>sombra</strong> para cuando el sol aprieta y queremos huir del calor.</p><p>Equipada con baños, merendero, bancos y pila para lavar los platos, comparte espacio con la <strong>zona de acampada</strong> del pueblo. Dispone de <strong>aparcamiento</strong> para vehículos.</p>",
+      "hintCover": "Refréscate con un buen chapuzón"
+    },
+    "phone": "",
+    "address": "Río Mijares",
+    "location": {
+      "coordinates": [-0.45791, 40.058225]
+    },
+    "images": [
+      {
+        "id": "zona_bano_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Zona de baño"
+        }
+      },
+      {
+        "id": "zona_bano_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Zona de baño"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Caldereta",
+      "description": "<p>Ubicado en el barranco de las <strong>Salinas</strong>, la Caldereta es un pozo en forma de anfiteatro con un encanto especial donde poder disfrutar de un <strong>baño</strong> en los calurosos días de verano o <strong>disfrutar</strong> de sus vistas. </p><p>Para acceder tendremos que dirigirnos hacia las afueras del pueblo en dirección sur, al cruzarnos con el barranco de las Salinas lo tomaremos aguas arriba caminando entre sus <strong>angostas paredes</strong> por el sendero que va cruzando de un lado a otro erráticamente.</p><p>Una vez dentro del barranco llegaremos en unos <strong>20 minutos</strong> al punto exacto donde podremos tomar un baño. La vuelta se realiza desandando el camino de ida.</p><p>Puedes acceder al trazado de La Caldereta desde el <strong>menú de rutas</strong>.</p>",
+      "hintCover": "Una poza con encanto especial"
+    },
+    "phone": null,
+    "address": "A 1.2 km del centro del pueblo",
+    "location": {
+      "coordinates": [-0.464002, 40.049658]
+    },
+    "images": [
+      {
+        "id": "caldereta_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "La Caldereta"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "La Casa Roya",
+      "description": "<p>Casa rural <strong>totalmente equipada</strong> de 4 habitaciones con zona de estar y/o comedor. Habitaciones equipadas con TV de pantalla plana, cocina con horno, nevera y cafetera. El baño es privado e incluye bañera. Se facilitan las toallas y la ropa de cama.</p><p>La Casa Roya dispone de bañera de hidromasaje.</p>",
+      "hintCover": "La Casa Roya, casa rural  equipada"
+    },
+    "phone": "",
+    "address": "Avenida Jara Macil 10",
+    "location": {
+      "coordinates": [-0.4611178, 40.0557714]
+    },
+    "images": [
+      {
+        "id": "casa_roya_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Vista del salón"
+        }
+      },
+      {
+        "id": "casa_roya_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Habitación"
+        }
+      },
+      {
+        "id": "casa_roya_03.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Habitación"
+        }
+      }
+    ],
+    "category": "lodging",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Albergue Jaramacil",
+      "description": "<p><strong>Casa de pueblo</strong> convertida en alojamiento rural, en la céntrica plaza de la Virgen. Dispone de 6 habitaciones con capacidad para 25 personas ampliable a 28 o incluso más. Las habitaciones están equipadas con literas excepto una de ellas que cuenta con dos camas individuales.</p><p>Idóneo para <strong>grupos</strong> y <strong>familias</strong>, disponemos de una sala con juegos, mesas y sillas para poder comer, jugar, descansar. </p><p>El Albergue tiene bar con servicio de <strong>desayunos</strong>, <strong>comidas</strong> y <strong>cenas</strong>.</p>· Precio por persona: 15€/noche<br/>· Grupos de 10 personas o más: 12€/noche<br/>· Niños menores de 8 años: 12€/noche<br/>Los precios incluyen sabana, bajera, funda de almohada y mantasbr<br/><p>Después de un gran día de aventura en este paraje tan excepcional, os proponemos venir a descansar al Albergue Jaramacil, típica casa de pueblo que no te puedes perder. Estaremos encantados de atenderos tanto en verano como en invierno.</p>",
+      "hintCover": "Albergue rural de Jaramacil"
+    },
+    "phone": "",
+    "address": "Plaza Virgen, 3",
+    "location": {
+      "coordinates": [-0.461271, 40.055595]
+    },
+    "images": [
+      {
+        "id": "jaramacil_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza del Jaramacil"
+        }
+      },
+      {
+        "id": "jaramacil_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza del Jaramacil"
+        }
+      },
+      {
+        "id": "jaramacil_03.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Habitación con literas"
+        }
+      },
+      {
+        "id": "jaramacil_04.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Habitación con literas"
+        }
+      },
+      {
+        "id": "jaramacil_05.jpg",
+        "lang": {
+          "code": "es",
+          "description": "El comedor"
+        }
+      }
+    ],
+    "category": "lodging",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Bar del Jaramacil",
+      "description": "<p>Ubicado en la planta baja del albergue Jaramacil, en la céntrica plaza de la Virgen, y con una gran terraza libre de coches. Podrás reponer fuerzas con sus bocadillos, tapas y bebidas. Abren tanto en invierno como en verano.</p>",
+      "hintCover": "Bar del albergue Jaramacil"
+    },
+    "phone": null,
+    "address": "Plaza Virgen, 3",
+    "location": {
+      "coordinates": [-0.461254, 40.055594]
+    },
+    "images": [
+      {
+        "id": "jaramacil_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza soleada"
+        }
+      },
+      {
+        "id": "jaramacil_05.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Bar del Jaramacil"
+        }
+      },
+      {
+        "id": "jaramacil_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza del Jaramacil"
+        }
+      }
+    ],
+    "category": "restaurants",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Autoservicio Capota",
+      "description": "<p>En autoservicio Capota podrás abastecerte de todo lo necesario para disfrutar de tus vacaciones. Un pequeño supermercado donde realizar tus compras de alimentación.</p>",
+      "hintCover": "Autoservicio alimentación Capo"
+    },
+    "phone": "964143208",
+    "address": "Calle Mayor 1",
+    "location": {
+      "coordinates": [-0.462621, 40.054444]
+    },
+    "images": [
+      {
+        "id": "autoservicio_capota_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Fachada del autoservicio"
+        }
+      }
+    ],
+    "category": "services",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Farmacia",
+      "description": "<p>Si durante tus vacaciones necesitas comprar medicinas o parafarmacia, encontrarás todo lo necesario en la Plaza Mayor.</p>",
+      "hintCover": "Farmacia en la Plaza Mayor"
+    },
+    "phone": "964143200",
+    "address": "Plaza Mayor 13",
+    "location": {
+      "coordinates": [-0.462509, 40.0552329]
+    },
+    "images": [
+      {
+        "id": "farmacia_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "La farmacia del pueblo"
+        }
+      }
+    ],
+    "category": "services",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Piscina municipal",
+      "description": "<p>La piscina municipal de Cirat se encuentra en la parte alta del pueblo junto a la pista de frontón y cancha multiusos. Dispone de dos vasos, uno para adultos y otro vaso, donde cubre menos, para los más pequeños.</p><p>Servicio de bar donde sirven hamburguesas, sandwiches, helados y bebidas. Permanece abierta los meses de julio, agosto y principios de septiembre.</p>",
+      "hintCover": "Piscina municipal, refréscate"
+    },
+    "phone": null,
+    "address": "Calla Rosaire 79",
+    "location": {
+      "coordinates": [-0.46714, 40.054283]
+    },
+    "images": [
+      {
+        "id": "piscina_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Piscina municipal"
+        }
+      },
+      {
+        "id": "piscina_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza de la piscina"
+        }
+      },
+      {
+        "id": "piscina_03.jpg",
+        "lang": {
+          "code": "es",
+          "description": "La piscina"
+        }
+      }
+    ],
+    "category": "services",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Iglesia de San Bernardo",
+      "description": "<p>Edifico de estilo barroco del <strong>siglo XVII</strong>, dependió hasta 1574 de la parroquia de Villahermosa del Río, mientras que hasta 1957 perteneció a la Archidiócesis de Valencia, pasando a partir de ese año a la Diócesis de Segorbe-Castellón.</p><p>Consta de una nave con capillas laterales y sin crucero, de trazas sencillas y con una torre campanario. </p>",
+      "hintCover": "Barroco del siglo XVII"
+    },
+    "phone": null,
+    "address": "Calle Mayor 2",
+    "location": {
+      "coordinates": [-0.463071, 40.054897]
+    },
+    "images": [
+      {
+        "id": "iglesia_san_bernardo.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Exterior de la iglesia"
+        }
+      },
+      {
+        "id": "iglesia_san_bernardo_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Interior de la iglesia"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Panaderia Apanem",
+      "description": "<p>Despacho de pan donde podrás comprar pan artesano, bollería y tortas de pueblo.</p><p>No te quedes sin pan artesano, resérvalo por Whatsapp al 695378594 un día antes y evita madrugar.</p>",
+      "hintCover": "Despacho de pan Apanem"
+    },
+    "phone": "964143190",
+    "address": "Avenida Jara Macil 46",
+    "location": {
+      "coordinates": [-0.4610852, 40.0557632]
+    },
+    "images": [
+      {
+        "id": "apanem_05.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Panadería "
+        }
+      },
+      {
+        "id": "apanem_panaderia_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Panes tradicionales"
+        }
+      }
+    ],
+    "category": "services",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Castillo de Cirat",
+      "description": "<p>Situado sobre un promontorio sobre el <strong>barranco de las Salinas</strong>, desde donde se controlaba el meandro que forma el río <strong>Mijares</strong> a su paso por Cirat.</p> <p>El castillo era de tipo <strong>montano</strong>, con dos recintos. Se pueden apreciar los restos de una torre semicircular, así como diferentes lienzos de muralla situados en su parte más vulnerable ya que por la otra cuenta con la defensa natural que ofrece la propia ubicación del recinto. También se aprecian los restos de un <strong>aljibe</strong> sin cubierta, pero en el que se observan los arranques de la bóveda y sus paredes impermeabilizadas.</p><p>Junto a éste aparece una estructura rectangular de <strong>uso desconocido</strong>, formada por bloques regulares. Se han encontrado en superficie cerámicas islámicas decoradas: bordes, asas etc.</p>",
+      "hintCover": "Vigilando el pueblo"
+    },
+    "phone": null,
+    "address": "A 300m de la población",
+    "location": {
+      "coordinates": [-0.46624303, 40.050075]
+    },
+    "images": [
+      {
+        "id": "castillo_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Ruinas del castillo"
+        }
+      },
+      {
+        "id": "castillo.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Ruinas del castillo"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Restaurante Sorní",
+      "description": "<p>Situado en la planta baja del <strong>Hostal Piedra del Mediodía</strong> ofrece una amplia carta así como un menú diario, de la cocina tradicional de montaña, sin olvidarnos de los productos del mar.<p><p>Todo ello lo podrás degustar con un fondo de impresionantes vistas del valle de Cirat desde la terraza de nuestro restaurante y apreciar la elaboración de nuestra cocina con las mejores materias primas, los buenos caldos y el mayor de nuestros cariños.<p>",
+      "hintCover": "Un sitio acogedor y agradable"
+    },
+    "phone": "964143025",
+    "address": "Calle Magisterio 25",
+    "location": {
+      "coordinates": [-0.4618353, 40.0562748]
+    },
+    "images": [
+      {
+        "id": "sorni_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Restaurante Sorní"
+        }
+      },
+      {
+        "id": "sorni_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Vistas al valle"
+        }
+      }
+    ],
+    "category": "restaurants",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "La terraza de Simona",
+      "description": "<p>Ubicado en la tranquila plaza de San Isidro y con vistas a la iglesia de San Bernardo, en la terraza de Simona podrás degustar tapas y bocadillos en buena compañía.</p><p>Se sirven desayunos, comidas y cenas.</p>",
+      "hintCover": "Una liturgia obligada"
+    },
+    "phone": "",
+    "address": "Plaza San Isidro 3",
+    "location": {
+      "coordinates": [-0.4628997, 40.0548622]
+    },
+    "images": [
+      {
+        "id": "simona_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza de Simona"
+        }
+      },
+      {
+        "id": "simona_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Por la noche"
+        }
+      }
+    ],
+    "category": "restaurants",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "La Taska",
+      "description": "<p>En la <strong>Taska</strong> podrás degustar tapas, bocadillos y bebidas, dispone de una espaciosa <strong>terraza</strong> con vistas, buen ambiente y servicio exquisito.</p><p>Llegada la noche podrás refrescarte con su variedad en combinados, cervezas y bebidas, en concreto la <strong>especialidad</strong> de la casa, las <strong>Mamadas</strong>. </p>",
+      "hintCover": "Disfruta de su terraza"
+    },
+    "phone": "",
+    "address": "Avenida Jara Macil 71",
+    "location": {
+      "coordinates": [-0.460816, 40.056352]
+    },
+    "images": [
+      {
+        "id": "tasca_interior_pergola.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza interior"
+        }
+      },
+      {
+        "id": "tasca_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Exterior  "
+        }
+      },
+      {
+        "id": "tasca_interior_jardin.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Terraza   "
+        }
+      }
+    ],
+    "category": "restaurants",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "El Arranque",
+      "description": "<p>Inagurado en 2015 y en plena plaza Mayor encontramos el Arranque, tu bar para degustar bocadillos, tapas caseras, hamburguesas y sandwiches. Haz un alto en el camino y recobra fueras en pleno centro del pueblo.</p>",
+      "hintCover": "Los pinchos es su especialidad"
+    },
+    "phone": "964143151",
+    "address": "Plaza Mayor 13",
+    "location": {
+      "coordinates": [-0.4625526, 40.0551823]
+    },
+    "images": [
+      {
+        "id": "arranque_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Interior del Arranque"
+        }
+      },
+      {
+        "id": "arranque_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Mesas con sillas"
+        }
+      },
+      {
+        "id": "arranque_03.jpg",
+        "lang": {
+          "code": "es",
+          "description": "La barra del bar"
+        }
+      },
+      {
+        "id": "arranque_04.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Entrada al local"
+        }
+      }
+    ],
+    "category": "restaurants",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Pub ApaNem",
+      "description": "<p>En Apanem podrás recobrar energías para ver todos los rincones de nuestro pueblo. </p>· Local climatizado<br/>· Wifi gratuito para los clientes<br/>· Música ambiental<br/>· Máquina de dardos<br/><p>No te quedes sin pan artesano, resérvalo por Whatsapp al 695378594 un día antes y evita madrugar.</p><p>Si alguna vez has pensado \"Me tomaría una copa de ... mirando el paisaje\", aquí está Apanem. Si, además, tu afición son los dardos, disponemos de máquina conectada a internet para seguir disfrutando del campeonato mundial incluso cuando estás de vacaciones.</p><p>Tiradores de las mejores marcas de cerveza, sidra artesana, vinoteca seleccionada y con 15 años de experiencia en cubralibres y gin tonics.</p>",
+      "hintCover": "Recobra fueras para descubir C"
+    },
+    "phone": "964143190",
+    "address": "Avenida Jara Macil 46",
+    "location": {
+      "coordinates": [-0.4610852, 40.0557632]
+    },
+    "images": [
+      {
+        "id": "apanem_01.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Pub Apanem"
+        }
+      },
+      {
+        "id": "apanem_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Pub Apanem"
+        }
+      },
+      {
+        "id": "apanem_03.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Pub Apanem"
+        }
+      },
+      {
+        "id": "apanem_04.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Pub Apanem"
+        }
+      },
+      {
+        "id": "apanem_06.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Pub Apanem"
+        }
+      }
+    ],
+    "category": "restaurants",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Hostal Piedra del Mediodía",
+      "description": "<p>El hostal consta de cuatro habitaciones dobles y una triple, todas ellas equipadas con <strong>baño</strong> y <strong>calefacción</strong>, una decoración <strong>acogedora</strong>, acorde con el entorno y un salón central común donde disfrutar del la <strong>tranquilidad</strong> y el <strong>descanso</strong> después de haber conocido el <strong>entorno natural</strong> y gozar practicando senderismo, rutas en mountain bike, barranquismo y deportes acuáticos para los más atrevidos.</p><p><strong>Silencio</strong> y <strong>naturaleza</strong> en el Alto Mijares.</p>",
+      "hintCover": "Con vistas al valle de Cirat"
+    },
+    "phone": "964143025",
+    "address": "Calle Magisterio 25",
+    "location": {
+      "coordinates": [-0.4619144, 40.0559803]
+    },
+    "images": [
+      {
+        "id": "piedra_salita.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Salita del hostal"
+        }
+      },
+      {
+        "id": "piedra_habitacion.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Habitación"
+        }
+      },
+      {
+        "id": "piedra_habitacion_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Vistas al valle"
+        }
+      }
+    ],
+    "category": "lodging",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Torre del Conde",
+      "description": "<p style='box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(33, 37, 41); font-family: Roboto, \"Helvetica Neue\", sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'>Conocida por los ciratenses como “la cárcel”, es una torre defensiva de finales del siglo XIII o principios del XIV. La planta baja abovedada de medio cañón fue en su inicio un aljibe.<br style=\"box-sizing: border-box;\">En la primera planta se pueden observar tres dependencias. La&nbsp;<strong style=\"box-sizing: border-box; font-weight: bolder;\">sala principal</strong> donde se encontraba el comedor y la chimenea, la&nbsp;<strong style=\"box-sizing: border-box; font-weight: bolder;\">sala del señorío</strong>, anunciada por el escudo de los Vilarig, y el&nbsp;<strong style=\"box-sizing: border-box; font-weight: bolder;\">pequeño dormitorio</strong> junto a la sala del señorío. Los Vilarig fueron los señores feudales y condes que poseyeron el señorío de Cirat, Pandiel y el Tormo.</p><p style='box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(33, 37, 41); font-family: Roboto, \"Helvetica Neue\", sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'>A lo largo de la historia la torre ha tenido diversos usos. Originariamente se utilizó como torreón defensivo, después como trastero, como depósito de víveres, como cárcel e incluso como corral para guardar los toros. Actualmente es la oficina de turismo del pueblo.</p>",
+      "hintCover": "Empápate de la historia"
+    },
+    "phone": "",
+    "address": "Plaza Mayor 17",
+    "location": {
+      "coordinates": [-0.4625103037784628, 40.055360300035716]
+    },
+    "images": [
+      {
+        "id": "torre_del_conde.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Torre del Conde"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  },
+  {
+    "lang": {
+      "code": "es",
+      "name": "Lavadero",
+      "description": "<p>Alimentado por las aguas del <strong>río Mijares</strong> nos traslada a un momento del pasado donde las <strong>mujeres del pueblo</strong> se reunían a lavar la <strong>ropa</strong> y <strong>utensilios</strong>, portando la losa de madera o <strong>raspador</strong>, el <strong>jabón</strong> de lagarto y el <strong>barreño</strong>.</p><p>Durante las jornadas en el lavadero se realizaba una <strong>función social</strong>, comentando las noticias y sucesos que acontecían en el pueblo o alrededores. De hecho la expresión \"<strong>lavar los trapos sucios</strong>\" debe su origen a estas reuniones en las que se críticaba a otras personas.</p>",
+      "hintCover": "El lavadero, una tradición restaurada"
+    },
+    "phone": "",
+    "address": "Plaça Poligono 1, 56",
+    "location": {
+      "coordinates": [-0.46084599308472196, 40.05793269118519]
+    },
+    "images": [
+      {
+        "id": "lavadero.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Lavadero  "
+        }
+      },
+      {
+        "id": "lavadero_02.jpg",
+        "lang": {
+          "code": "es",
+          "description": "Interior del lavadero"
+        }
+      }
+    ],
+    "category": "recommended",
+    "storagePath": "spots"
+  }
+]
